@@ -39,7 +39,24 @@ TRÁFICO NORMAL:                  ATAQUE DoS:
   
   ~10 req/seg                    ~10,000 req/seg → COLAPSO
 ```
- 
+
+##Desmotracion Ataque DDos
+
+
+
+
+
+https://github.com/user-attachments/assets/ceba098b-d4e1-4d4b-a94a-86feb7a817d5
+
+
+
+
+
+
+```
+
+
+ ```
 | Tipo | Descripción | Ejemplo |
 |------|-------------|---------|
 | **DoS** | Un solo atacante satura el servidor | SYN Flood |
